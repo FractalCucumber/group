@@ -1,3 +1,6 @@
 [submodule "KNN"]
 	path = KNN
 	url = https://github.com/FractalCucumber/KNN
+[submodule "covid"]
+	path = covid
+	url = https://github.com/FractalCucumber/covid
