@@ -4,9 +4,9 @@
 [submodule "regression"]
 	path = regression
 	url = https://github.com/FractalCucumber/regression
-[submodule "ML_group"]
-	path = ML_group
-	url = https://github.com/Qwertst/ML_group
 [submodule "classification"]
 	path = classification
 	url = https://github.com/oreshkichikaladnie/machine_learning
+[submodule "Clustering_and_Network"]
+	path = Clustering_and_Network
+	url = https://github.com/Qwertst/ML_group
