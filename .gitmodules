@@ -1,9 +1,9 @@
 [submodule "KNN"]
 	path = KNN
 	url = https://github.com/FractalCucumber/KNN
-[submodule "covid"]
-	path = covid
-	url = https://github.com/FractalCucumber/covid
+[submodule "regression"]
+	path = regression
+	url = https://github.com/FractalCucumber/regression
 [submodule "ML_group"]
 	path = ML_group
 	url = https://github.com/Qwertst/ML_group
