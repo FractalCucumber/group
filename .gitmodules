@@ -7,6 +7,6 @@
 [submodule "ML_group"]
 	path = ML_group
 	url = https://github.com/Qwertst/ML_group
-[submodule "machine_learning"]
-	path = machine_learning
+[submodule "classification"]
+	path = classification
 	url = https://github.com/oreshkichikaladnie/machine_learning
